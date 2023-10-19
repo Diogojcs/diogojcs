@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Olá! Sou Diogo<br><br>🌟 Apaixonado por Desenvolvimento de Software<br><br>🚀 Iniciante na área, em busca de aprender e colaborar<br><br>📚 Sempre em busca de conhecimento e crescimento<br><br>📫 Entre em contato: diogo.jcs@hotmail.com.br
+# 👋 Olá! Sou Diogo
+<br><br>🌟 Apaixonado por Desenvolvimento de Software<br><br>🚀 Iniciante na área, em busca de aprender e colaborar<br><br>📚 Sempre em busca de conhecimento e crescimento<br><br>📫 Entre em contato: diogo.jcs@hotmail.com.br
 
 
 ## 🌐 Socials:
